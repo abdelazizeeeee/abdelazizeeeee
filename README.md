@@ -92,7 +92,7 @@
 
 <li>
 <a href="abdelaziz.naija@horizon-tech.tn" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Abdelaziz-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  "abdelaziz.naija@horizon-tech.tn%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
